@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">🛠 I code With</h2>
+<h3 align="center">🛠 I code With</h3>
 
 ###
 
@@ -41,11 +41,7 @@
 
 ###
 
-<p align="left">ㅤㅤ</p>
-
-###
-
-<h2 align="center">👤 Social Media</h2>
+<h3 align="center">👤 Social Media</h3>
 
 ###
 
