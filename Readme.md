@@ -16,11 +16,11 @@
 
 
 <h2 align="center" >🛠 I code With</h2>
-<table align="center"><tr><td valign="top" width="400" height="200">
+<table align="center"><tr><td valign="top" width="400" height="150">
 
 
 
-<h4 align="center" >FRONT-END</h4> 
+<h4 align="center" >Front-end</h4> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -32,10 +32,10 @@
 </div>
 
 
-</td><td valign="top" width="400" height="200">
+</td><td valign="top" width="400" height="150">
 
 
-<h4 align="center" >BACK-END</h4> 
+<h4 align="center" >Back-end</h4> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
