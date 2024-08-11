@@ -16,7 +16,7 @@
 
 
 <h2 align="center" >🛠 I code With</h2>
-<table align="center"><tr><td valign="top" width="80%">
+<table align="center"><tr><td valign="top" width="50%"height="80">
 
 
 
