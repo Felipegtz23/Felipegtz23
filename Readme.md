@@ -1,6 +1,5 @@
 <h2 align="center">🚏 About Me</h2>
 
-<br clear="both">
 
 <p align="center">👨🏽‍💻 My name is Andres F. Gutierrez<br>✨ Software developer and student of Computer Engineering<br>📚 I'm currently learning English and Node.JS</p>
 
@@ -15,7 +14,6 @@
 
 <h2 align="center" >🛠 I code With</h2>
 <table align="center"><tr><td valign="top" width="400" height="150">
-
 
 
 <h4 align="center" >Front-end</h4> 
@@ -51,7 +49,7 @@
 
 <br/>  
 
-<br clear="both">
+<h2 align="center" >Social Media</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/felipegtz23/" target="_blank">
