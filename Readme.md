@@ -16,7 +16,7 @@
 
 
 <h2 align="center" >🛠 I code With</h2>
-<table align="center"><tr><td valign="top" width="256" height="500">
+<table align="center"><tr><td valign="top" width="256" height="100">
 
 
 
@@ -26,7 +26,7 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" /></a>  
 </div>
 
-</td><td valign="top" width="256" height="500">
+</td><td valign="top" width="256" height="100">
 
 
 <h4 align="center" >Backend</h4> 
