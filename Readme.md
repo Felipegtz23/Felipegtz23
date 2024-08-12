@@ -33,7 +33,7 @@
 </td><td valign="top" width="400" height="150">
 
 
-<h4 align="center" >Back-end</h4> 
+<p align="center" >Back-end</p> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
@@ -51,7 +51,7 @@
 
 <br/>  
 
-<h2 align="center" >📰 Social Media</h2>
+<p align="center" >📰 Social Media</p>
 
 <div align="center">
   <a href="https://www.instagram.com/felipegtz23/" target="_blank">
