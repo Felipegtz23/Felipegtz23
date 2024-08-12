@@ -14,7 +14,7 @@
 
 
 <h2 align="center" >💻 I code With</h2>
-<table align="center"><tr><td valign="top" width="400" height="150">
+<table align="center"><tr><td valign="top" width="400" height="140">
 
 
 <p align="center" ><b>Front-end<b/></p> 
@@ -30,7 +30,7 @@
 </div>
 
 
-</td><td valign="top" width="400" height="150">
+</td><td valign="top" width="400" height="140">
 
 
 <p align="center" ><b>Back-end<b/></p> 
