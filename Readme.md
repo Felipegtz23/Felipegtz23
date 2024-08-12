@@ -17,7 +17,7 @@
 <table align="center"><tr><td valign="top" width="400" height="150">
 
 
-<h4 align="center" >Front-end</h4> 
+<p align="center" ><b>Front-end<b/></p> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="15" />
@@ -33,7 +33,7 @@
 </td><td valign="top" width="400" height="150">
 
 
-<p align="center" >Back-end</p> 
+<p align="center" ><b>Back-end<b/></p> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
@@ -51,7 +51,7 @@
 
 <br/>  
 
-<p align="center" >📰 Social Media</p>
+<h2 align="center" >📰 Social Media</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/felipegtz23/" target="_blank">
