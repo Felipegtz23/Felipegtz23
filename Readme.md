@@ -1,7 +1,7 @@
 <h2 align="center">👤 About Me</h2>
 
 
-<p align="center">👨🏽‍💻 My name is Andres F. Gutierrez<br>🎧 Software Dev and student of Computer Engineering<br>📓 I'm currently learning English and Node.JS</p>
+<p align="center">👨🏽‍💻 Andres F. Gutierrez<br>🎧 Software Dev and student of Computer Engineering<br>📓 I'm currently learning English and Node.JS</p>
 
 ###
 
