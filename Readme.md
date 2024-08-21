@@ -47,14 +47,14 @@
 </table>
 <br>
 
-<h2 align="center" >💻 Tools</h2>
+<h2 align="center" >🧰 Tools</h2>
 <div align="center">
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 <br>
 
 <br>
-<h2 align="center"> Social Media</h2>
+<h2 align="center">📰 Social Media</h2>
 <div align="center">
   <a href="https://www.instagram.com/felipegtz23/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
