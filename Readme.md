@@ -35,7 +35,7 @@
 <p align="center" ><b>Back-end<b/></p> 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs)](https://skillicons.dev)
 
 
 </div>
