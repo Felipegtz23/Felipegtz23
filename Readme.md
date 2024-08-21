@@ -39,13 +39,12 @@
 
 
 </div>
-</td><td valign="top" width="400" height="140">
 <p align="center" ><b>Softwares<b/></p> 
 <div align="center">
  
 [![My Skills](https://skillicons.dev/icons?i=adobe)](https://skillicons.dev)
 
-</div>
+
 <br/>  
 
 <h2 align="center" >📰 Social Media</h2>
