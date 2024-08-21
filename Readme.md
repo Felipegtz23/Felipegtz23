@@ -5,7 +5,7 @@
 
  <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Software+Dev+and+student+of+Computer+Engineerin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Software+Dev+and)](https://git.io/typing-svg)
 <br>
 
 ###
