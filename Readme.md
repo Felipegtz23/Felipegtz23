@@ -44,7 +44,7 @@
 <div align="center">
  
 [![My Skills](https://skillicons.dev/icons?i=adobe)](https://skillicons.dev)
-
+</div>
 ###
 
 <br/>  
