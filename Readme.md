@@ -43,7 +43,7 @@
 <p align="center" ><b>Softwares<b/></p> 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=adobe,qgis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=adobe)](https://skillicons.dev)
 
 <br/>  
 
