@@ -43,9 +43,8 @@
 <p align="center" ><b>Softwares<b/></p> 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=adobe)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,)](https://skillicons.dev)
 </table>
-###
 
 <br/>  
 
