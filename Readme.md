@@ -47,7 +47,7 @@
 </table>
 
 
-<p align="center" ><h2>Softwares<b/></h2> 
+<h2 align="center" >💻 Softwares</h2>
 <div align="center">
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
