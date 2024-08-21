@@ -40,30 +40,7 @@
 
 </div>
 
-<table align="center"><tr><td valign="top" width="400" height="140">
 
-
-<p align="center" ><b>Front-end<b/></p> 
-<div align="center">
-
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css)](https://skillicons.dev)
-     
-
-</div>
-
-
-</td><td valign="top" width="400" height="140">
-
-
-<p align="center" ><b>Back-end<b/></p> 
-<div align="center">
- 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,mysql)](https://skillicons.dev)
-
-
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
