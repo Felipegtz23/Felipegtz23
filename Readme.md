@@ -40,7 +40,10 @@
 
 </div>
 </td><td valign="top" width="400" height="140">
-
+<p align="center" ><b>Softwares<b/></p> 
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=adobe,qgis)](https://skillicons.dev)
 
 <br/>  
 
