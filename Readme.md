@@ -3,6 +3,9 @@
 
 <p align="center">👨🏽‍💻 Andres F. Gutierrez<br>🎧 Software Dev and student of Computer Engineering<br>📓 I'm currently learning English and Node.JS</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Estudiante+Ingenieria+Informatica!)](https://git.io/typing-svg)
+<br>
+
 ###
 
 <div align = center>
