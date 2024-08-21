@@ -47,8 +47,13 @@
 </table>
 
 <br/>  
+<h2 align="center" > Software</h2>
 
-<h2 align="center" >📰 Social Media</h2>
+
+<p align="center" ><b>Softwares<b/></p> 
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://www.instagram.com/felipegtz23/" target="_blank">
