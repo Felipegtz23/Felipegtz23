@@ -1,9 +1,11 @@
 <h2 align="center">👤 About Me</h2>
 
 
-<p align="center">👨🏽‍💻 Andres F. Gutierrez<br>🎧 Software Dev and student of Computer Engineering<br>📓 I'm currently learning English and Node.JS</p>
+<p align="center">👨🏽‍💻 Andres F. Gutierrez<br>📓 I'm currently learning English and Node.JS</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Estudiante+Ingenieria+Informatica!)](https://git.io/typing-svg)
+ <h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Software+Dev+and+student+of+Computer+Engineerin)](https://git.io/typing-svg)
 <br>
 
 ###
