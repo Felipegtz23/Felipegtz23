@@ -23,7 +23,7 @@
 <p align="center" ><b>Front-end<b/></p> 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
      
 
 </div>
@@ -43,7 +43,7 @@
  <p align="center" ><b>Database<b/></p> 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,aws)](https://skillicons.dev)
 </table>
 
 
