@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/git-%2312100E.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" />
 <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
 <img src="https://img.shields.io/badge/adobe-%2312100E.svg?&style=for-the-badge&logo=adobe&logoColor=white&color=black" />
+<img src="https://img.shields.io/badge/notion-%2312100E.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black" />
 
 <br>
 <br>
