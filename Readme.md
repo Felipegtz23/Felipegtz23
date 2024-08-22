@@ -8,7 +8,7 @@
 
 <h2 align="center" >💻 I code With</h2>
 
-<table align="center"><tr><td valign="top" width="400" height="140">
+<table align="center"><tr><td valign="top" width="400" height="130">
 <p align="center" ><b>Front-end<b/></p> 
 <div align="center">
  
@@ -17,7 +17,7 @@
 </div>
 
 
-</td><td valign="top" width="400" height="140">
+</td><td valign="top" width="400" height="130">
 <p align="center" ><b>Back-end<b/></p> 
 <div align="center">
  
@@ -26,7 +26,7 @@
 </div>
 
 
-</td><td valign="top" width="400" height="140">
+</td><td valign="top" width="400" height="130">
  <p align="center" ><b>Database<b/></p> 
 <div align="center">
  
