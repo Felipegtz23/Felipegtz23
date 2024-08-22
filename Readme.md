@@ -3,15 +3,12 @@
 <p align="center">👨🏽‍💻 My name is Andres F. Gutierrez<br>✨ Software developer and student of Computer Engineering<br>📚 I'm currently learning English and Node.JS</p>
 
 ###
-
-
-
 <br/>  
 
+
 <h2 align="center" >💻 I code With</h2>
+
 <table align="center"><tr><td valign="top" width="400" height="140">
-
-
 <p align="center" ><b>Front-end<b/></p> 
 <div align="center">
  
@@ -21,7 +18,6 @@
 
 
 </td><td valign="top" width="400" height="140">
-
 <p align="center" ><b>Back-end<b/></p> 
 <div align="center">
  
@@ -40,6 +36,7 @@
 
 </table>
 
+
 <h3 align="center" >Tools</h3>
 <div align="center">
 
@@ -55,7 +52,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FELIPEGTZ23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=FELIPEGTZ23&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 
 
 <h2 align="center">Social Media</h2>
