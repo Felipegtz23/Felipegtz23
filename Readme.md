@@ -44,25 +44,22 @@
 
 <h3 align="center" >🧰 Tools</h3>
 <div align="center">
- 
+
+
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 <br>
 
 <h2 align="center">📰 Social Media</h2>
 <div align="center">
-  <a href="https://www.instagram.com/felipegtz23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+ 
   </a>
-  <a href="https://stackoverflow.com/users/22186538/andres-f-gutierrez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andres-gutierrez-103438290/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="http://maito:andresgutierrezdeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/felipegtz23/)
+[<img src="https://img.shields.io/badge/Stackoverflow-%2312100E.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white&color=black" />](https://stackoverflow.com/users/22186538/andres-f-gutierrez)
+ [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/andresfgtz23/)
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](http://maito:andresgutierrezdeveloper@gmail.com)
+
 </div>
 
 ###
