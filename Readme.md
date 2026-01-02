@@ -1,6 +1,6 @@
 <h2 align="center">👤 About Me</h2>
 
-<p align="center">💻 Backend-focused development<br>🧱 Interest in system architecture and performance<br>🌐 UI/UX awareness for better web experiences<br>🇬🇧 English: B1 (currently improving)<br>🚀 Continuous learner
+<p align="center">💻 Backend dev<br>🧱 Interest in system architecture and performance<br>🌐 UI/UX awareness for better web experiences<br>🇬🇧 English: B1 (currently improving)<br>🚀 Continuous learner
 
 
 <br/>  
