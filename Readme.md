@@ -1,6 +1,6 @@
 <h2 align="center">👤 About Me</h2>
 
-<p align="center">👨🏽‍💻 My name is Andres F. Gutierrez<br>✨ Software dev and student of Computer Engineering<br>💻 Backend-focused development<br>🧱 Interest in system architecture and performance<br>🌐 UI/UX awareness for better web experiences<br>🇬🇧 English level: B1 (currently improving)<br>🚀 Continuous learner
+<p align="center">💻 Backend-focused development<br>🧱 Interest in system architecture and performance<br>🌐 UI/UX awareness for better web experiences<br>🇬🇧 English: B1 (currently improving)<br>🚀 Continuous learner
 
 
 <br/>  
