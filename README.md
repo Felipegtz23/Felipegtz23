@@ -21,12 +21,6 @@
   <img src="radar-languages.svg" width="49%" alt="Language stack" />
 </p>
 
-<p align="center"><img src="title-beyond.svg" width="100%" alt="Beyond The Code" /></p>
-
-<p align="center">
-  <img src="music-eq.svg" width="100%" alt="Now playing: House, Jazz, Rock" />
-</p>
-
 <p align="center"><img src="title-connect.svg" width="100%" alt="Connect" /></p>
 
 <p align="center">
